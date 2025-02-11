@@ -1,0 +1,51 @@
+.container{
+    margin-bottom:50px;
+}
+.carousel-item{
+    padding: 10px 20px;
+}
+.product{
+    background-image: url(images/bg-1.png);
+}
+.button{
+    background-color: black;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    padding: 4px 30px;
+    font-size: 20px;
+    
+}
+.products h1{
+    font-size: 50px;
+    
+    
+}
+p{
+    color: gray;
+    
+}
+.back{
+    background-image: url(images/bg-1.png);
+    background-repeat: no-repeat;   
+}
+.dekh{
+    background-image: url(images/bg-2.png);
+    
+}
+.p-2{
+    font-size: 50px;
+}
+.small{
+    font-size: 20px;
+    color: orange;
+}
+.card-body{
+    text-align: center;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 20px  lightgray;
+    border-radius: 10px;
+}
