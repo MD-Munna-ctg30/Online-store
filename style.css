@@ -40,6 +40,7 @@ p{
 .small{
     font-size: 20px;
     color: orange;
+    cursor: pointer;
 }
 .card-body{
     text-align: center;
@@ -48,4 +49,7 @@ p{
     border: none;
     box-shadow: 5px 5px 20px  lightgray;
     border-radius: 10px;
+}
+.Cat{
+    height: 300px;
 }
